@@ -1,7 +1,5 @@
 # Edie - HTML & CSS Demo Page
 
-![Edie](https://lokeshsharma19.github.io/Edie-HTML--CSS-project/images/edie-logo.png)
-
 Welcome to the Edie project! This is a simple, responsive demo webpage created using HTML and CSS. You can see the live demo [here](https://lokeshsharma19.github.io/Edie-HTML--CSS-project/).
 
 ## About
